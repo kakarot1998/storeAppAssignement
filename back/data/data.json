@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product 21",
+      "description": "This is product 2",
+      "price": 30,
+      "quantity": 50,
+      "category": "clothing",
+      "image": "/images/product2.jpg",
+      "inventoryStatus": "LOWSTOCK",
+      "rating": 3.8
+    },
+    {
+      "id": 3,
+      "name": "ewwweg",
+      "description": "",
+      "price": 0,
+      "quantity": 0,
+      "category": "Electronics",
+      "image": "",
+      "inventoryStatus": "INSTOCK",
+      "rating": 0
+    },
+    {
+      "id": 3,
+      "name": "Product 1",
+      "description": "This is product 1",
+      "price": 300000,
+      "quantity": 5000,
+      "category": "clothing",
+      "image": "/images/product1.jpg",
+      "inventoryStatus": "LOWSTOCK",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Product 100",
+      "description": "This is product 100",
+      "price": 300000,
+      "quantity": 5000,
+      "category": "clothing",
+      "image": "/images/product100.jpg",
+      "inventoryStatus": "LOWSTOCK",
+      "rating": 5
+    },
+    {
+      "id": 5
+    }
+  ]
+}
